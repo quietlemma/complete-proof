@@ -1,2 +1,1 @@
-This is the pdf which include the complete proof
- of the PTAS in the paper "title".
+This PDF gives complete proof of "Asymptotic PTAS for ID VRP-MD&TW".
